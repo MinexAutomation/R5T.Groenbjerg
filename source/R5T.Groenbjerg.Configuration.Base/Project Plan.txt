@@ -1,0 +1,4 @@
+R5T.Groenbjerg.Base - Base library for GitHubConfiguration types and services.
+
+Goals
+

@@ -1,0 +1,5 @@
+R5T.Groenbjerg.Configuration.Suebia - GitHubConfiguration JSON file path provider and IConfigurationBuilder extensions.
+
+
+Goals
+

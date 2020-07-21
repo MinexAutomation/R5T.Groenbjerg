@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\R5T.Groenbjerg.Configuration.Base\R5T.Groenbjerg.Configuration.Base.csproj" />
+    <ProjectReference Include="..\R5T.Groenbjerg.Configuration.Sardinia\R5T.Groenbjerg.Configuration.Sardinia.csproj" />
+    <ProjectReference Include="..\R5T.Groenbjerg.Configuration.Suebia\R5T.Groenbjerg.Configuration.Suebia.csproj" />
+  </ItemGroup>
+
+</Project>

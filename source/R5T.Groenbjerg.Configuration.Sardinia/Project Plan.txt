@@ -1,0 +1,5 @@
+R5T.Groenbjerg.Configuration.Sardinia - GitHubConfiguration types, options, and IServiceCollection extensions.
+
+
+Goals
+

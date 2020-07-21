@@ -1,0 +1,5 @@
+R5T.Groenbjerg.Configuration.Standard - Standard aggregation library for GitHubConfiguration types and services.
+
+
+Goals
+
