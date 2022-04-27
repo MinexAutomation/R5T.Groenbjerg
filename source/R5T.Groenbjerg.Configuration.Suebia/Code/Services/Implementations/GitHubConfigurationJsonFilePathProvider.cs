@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 
-using R5T.Suebia;
+using R5T.Suebia;using R5T.T0064;
 
 
 namespace R5T.Groenbjerg.Configuration.Suebia
-{
-    public class GitHubConfigurationJsonFilePathProvider : IGitHubConfigurationJsonFilePathProvider
+{[ServiceImplementationMarker]
+    public class GitHubConfigurationJsonFilePathProvider : IGitHubConfigurationJsonFilePathProvider,IServiceImplementation
     {
         private ISecretsDirectoryFilePathProvider SecretsDirectoryFilePathProvider { get; }
 
